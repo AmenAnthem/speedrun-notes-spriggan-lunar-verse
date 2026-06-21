@@ -49,8 +49,8 @@ author: AmenAnthem
 - mission briefing menu
 - shoot candle down, turn, shoot candle, right, shoot wall
 - right, shoot wall, straight, kill spiders with kick
-- follow path, use psy, jump up left twice
-- use statue, door, left, use elevator
+- opposite door, down cave, use psy, jump up left twice
+- use statue, destroy candles, door, left, use elevator
 - shoot spiders, leave, use psy, jump dash through right corridor
 - middle door, kill bosses with light punch, door
 - use psy, jump dash to opposite end, use statue
@@ -61,7 +61,7 @@ author: AmenAnthem
 - door straight, straight, jump up left, jump to left corridor
 - follow path, jump to left corridor, follow path
 - kill minions with gun, light punch boss
-- drop down altar, shoot candle
+- drop down altar, shoot wall emblem straight
 
 ## Get Back the Antarctic Remains
 - adjust status menu, level resist
@@ -95,7 +95,7 @@ author: AmenAnthem
 - mission briefing menu
 - use psy, straight, get key on helipad, left, use key on door
 - right, right, elevator
-- straight, punch straight walls (three walls), right at end, straight, elevator
+- straight, punch straight walls (three walls), punch wall to right, straight, elevator
 - use psy, straight
 - kill boss with heavy punch
 - turn, use psy, straight, elevator
@@ -105,7 +105,7 @@ author: AmenAnthem
 - get bomb, leave, left, punch wall, right, door, get bomb
 
 ## Chase Into the Antarctic Remains
-- equop menu, equip BZ-P320
+- equip menu, equip BZ-P320
 - adjust status menu, level stamina then concentration
 - mission briefing menu
 - turn, left button, blue door, left, elevator, jump up
